@@ -1,4 +1,4 @@
-package id.ac.nurfaidah.belajarroom.db.note
+package id.ac.nurfaidah.belajarroom.db
 
 import android.content.Context
 import androidx.room.Database

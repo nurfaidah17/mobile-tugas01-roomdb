@@ -5,7 +5,7 @@ import androidx.lifecycle.LiveData
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.runBlocking
-import id.ac.nurfaidah.belajarroom.db.note.AppDatabase
+import id.ac.nurfaidah.belajarroom.db.AppDatabase
 
 class NoteRepository(application: Application) {
 

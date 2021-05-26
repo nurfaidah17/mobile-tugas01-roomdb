@@ -26,5 +26,5 @@ class NoteViewModel(application: Application) : AndroidViewModel(application) {
     fun updateNote(note: Note) {
         noteRepository.update(note)
     }
-    
+
 }
